@@ -1,0 +1,22 @@
+{
+  "name": "yp-taobao-topclient",
+  "version": "1.0.0",
+  "description": "taobao top client",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcboy/yp-taobao-topclient.git"
+  },
+  "keywords": [
+    "taobao"
+  ],
+  "author": "DC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcboy/yp-taobao-topclient/issues"
+  },
+  "homepage": "https://github.com/dcboy/yp-taobao-topclient#readme"
+}
